@@ -70142,9 +70142,6 @@
                                 "example": 90012,
                                 "description": "The postal code of the address"
                               }
-                            },
-                            "example": {
-                              "$ref": "../examples/order.yml#/ShippingAddress/value"
                             }
                           },
                           "billingAddress": {
@@ -70204,9 +70201,6 @@
                                 "example": 90012,
                                 "description": "The postal code of the address"
                               }
-                            },
-                            "example": {
-                              "$ref": "../examples/order.yml#/BillingAddress/value"
                             }
                           },
                           "shippingProvider": {
@@ -72383,9 +72377,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/ShippingAddress/value"
                       }
                     },
                     "billingAddress": {
@@ -72445,9 +72436,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/BillingAddress/value"
                       }
                     },
                     "shippingProvider": {
@@ -74237,9 +74225,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/ShippingAddress/value"
                       }
                     },
                     "billingAddress": {
@@ -74299,9 +74284,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/BillingAddress/value"
                       }
                     },
                     "shippingProvider": {
@@ -76077,9 +76059,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/ShippingAddress/value"
                       }
                     },
                     "billingAddress": {
@@ -76139,9 +76118,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/BillingAddress/value"
                       }
                     },
                     "shippingProvider": {
@@ -77900,9 +77876,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/ShippingAddress/value"
                       }
                     },
                     "billingAddress": {
@@ -77962,9 +77935,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/BillingAddress/value"
                       }
                     },
                     "shippingProvider": {
@@ -79744,9 +79714,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/ShippingAddress/value"
                       }
                     },
                     "billingAddress": {
@@ -79806,9 +79773,6 @@
                           "example": 90012,
                           "description": "The postal code of the address"
                         }
-                      },
-                      "example": {
-                        "$ref": "../examples/order.yml#/BillingAddress/value"
                       }
                     },
                     "shippingProvider": {
@@ -84029,9 +83993,6 @@
                             "example": 90012,
                             "description": "The postal code of the address"
                           }
-                        },
-                        "example": {
-                          "$ref": "../examples/order.yml#/ShippingAddress/value"
                         }
                       },
                       "billingAddress": {
@@ -84091,9 +84052,6 @@
                             "example": 90012,
                             "description": "The postal code of the address"
                           }
-                        },
-                        "example": {
-                          "$ref": "../examples/order.yml#/BillingAddress/value"
                         }
                       },
                       "shippingProvider": {
@@ -85395,9 +85353,6 @@
                             "example": 90012,
                             "description": "The postal code of the address"
                           }
-                        },
-                        "example": {
-                          "$ref": "../examples/order.yml#/ShippingAddress/value"
                         }
                       },
                       "billingAddress": {
@@ -85457,9 +85412,6 @@
                             "example": 90012,
                             "description": "The postal code of the address"
                           }
-                        },
-                        "example": {
-                          "$ref": "../examples/order.yml#/BillingAddress/value"
                         }
                       },
                       "shippingProvider": {
